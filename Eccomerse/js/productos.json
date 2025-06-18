@@ -1,0 +1,252 @@
+[
+    {
+        "id": "panaderia-7",
+        "titulo": "Pan Sab con Salame",
+        "imagen": "imagenes/pan-salm.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 750
+    },
+    {
+        "id": "panaderia-6",
+        "titulo": "Pan de Masa Madre",
+        "imagen": "imagenes/masa-2.webp",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "factura-10",
+        "titulo": "Medialuna de Jamon y queso",
+        "imagen": "imagenes/nedialuna de jamon y queso.jpg",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "factura-9",
+        "titulo": "Medialuna de Grasa",
+        "imagen": "imagenes/medialunas-de-grasa.webp",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "factura-8",
+        "titulo": "Medialuna ",
+        "imagen": "imagenes/medialuna.webp",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "factura-7",
+        "titulo": "Medialuna Rellena x1",
+        "imagen": "imagenes/medialuna con dulce de leche.webp",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 900
+    },
+    {
+        "id": "panaderia-5",
+        "titulo": "FLautita x1/4",
+        "imagen": "imagenes/flauta.avif",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 350
+    },
+    {
+        "id": "panaderia-4",
+        "titulo": "Figasita x6",
+        "imagen": "imagenes/Figasita.webp",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "panaderia-1",
+        "titulo": "chipas xDocena",
+        "imagen": "imagenes/chipas.webp",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "factura-1",
+        "titulo": "Bola de Fraile Pastelera 1u" ,
+        "imagen": "imagenes/bola de fraile crema pastelera.avif",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "factura-2",
+        "titulo": "Bola de Fraile 1u",
+        "imagen": "imagenes/bola de Fraile.jpg",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "factura-3",
+        "titulo": "churros 1u",
+        "imagen": "imagenes/churros.jpg",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "factura-4",
+        "titulo": "churros rellenos 1u" ,
+        "imagen": "imagenes/churros rellenos.jpg",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "panaderia-2",
+        "titulo": "cremona",
+        "imagen": "imagenes/cremona.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "factura-5",
+        "titulo": "Factura de crema pastelera 1u",
+        "imagen": "imagenes/fac crema pastelera.jpg",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "factura-6",
+        "titulo": "Factura de membrillo 1u",
+        "imagen": "imagenes/fac membrillo.webp",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "panaderia-3",
+        "titulo": "Libritos 250g",
+        "imagen": "imagenes/libritos.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "panaderia-8",
+        "titulo": "Pan Rustico",
+        "imagen": "imagenes/pan rustico.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "panaderia-9",
+        "titulo": "Pan Integral",
+        "imagen": "imagenes/pan integral.avif",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "panaderia-10",
+        "titulo": "Pan x1/4",
+        "imagen": "imagenes/pan.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 500
+    },
+    {
+        "id": "factura-11",
+        "titulo": "Factura de memebrillo 1u",
+        "imagen": "imagenes/pastelera membrillo.webp",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 600
+    },
+    {
+        "id": "postre-1",
+        "titulo": "Tiramisu",
+        "imagen": "imagenes/tiramisu.webp",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postre"
+        },
+        "precio": 1000
+    },  
+    {
+        "id": "factura-12",
+        "titulo": "Torta Negra x1",
+        "imagen": "imagenes/torta negra.avif",
+        "categoria": {
+            "nombre": "Facturas",
+            "id": "facturas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pasteleria",
+        "titulo": "Brownie ",
+        "imagen": "imagenes/brownie.avif",
+        "categoria": {
+            "nombre": "Pasteleria",
+            "id": "pasteleria"
+        },
+        "precio": 3000
+    },   
+    {
+        "id": "pasteleria",
+        "titulo": "torta personalizable",
+        "imagen": "imagenes/person.avif",
+        "categoria": {
+            "nombre": "Pasteleria",
+            "id": "pasteleria"
+        },
+        "precio": 10000
+    }
+]
